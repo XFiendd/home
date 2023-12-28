@@ -2,11 +2,11 @@
   {
     "icon": "Blog",
     "name": "Gemini",
-    "link": "https://www.xfiend.net:3000"
+    "link": "http://www.xfiend.net:3000"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://www.xfiend.net:5244"
+    "link": "http://www.xfiend.net:5244"
   }
 ]
